@@ -1,0 +1,1 @@
+# a-function-using-32-pmos-and-32-nmos-on-NCSIM-CADENCE-
